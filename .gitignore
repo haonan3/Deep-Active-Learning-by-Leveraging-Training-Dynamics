@@ -1,0 +1,6 @@
+txt_logs/
+vis/
+runs/
+data/
+.idea/
+src/__pycache__/
